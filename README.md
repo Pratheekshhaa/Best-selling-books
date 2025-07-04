@@ -1,13 +1,13 @@
-# 🎬 Movie Recommendation System
+# 🎬 Best sellering Books
 
-This project is a movie recommendation system built using Python. It analyzes a dataset of bestselling movies from Kaggle and suggests recommendations using basic data analysis techniques.
+This project is a best selling books built using Python. It analyzes a dataset of bestselling books from Kaggle and suggests recommendations using basic data analysis techniques.
 
 ---
 
 ## 📁 Project Files
 
-- `main.ipynb` – Jupyter Notebook containing the full code for the movie recommendation system.
-- `bestsellers.csv` – Dataset file from Kaggle with details about bestselling movies or books.
+- `main.ipynb` – Jupyter Notebook containing the full code for the bestselling books.
+- `bestsellers.csv` – Dataset file from Kaggle with details about bestselling books.
 
 ---
 
