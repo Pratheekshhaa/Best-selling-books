@@ -1,4 +1,4 @@
-# 🎬 Best sellering Books
+# 🎬 Best selling Books
 
 This project is a best selling books built using Python. It analyzes a dataset of bestselling books from Kaggle and suggests recommendations using basic data analysis techniques.
 
